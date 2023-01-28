@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "739457235790",
+    "project_id": "soil-moisture6",
+    "storage_bucket": "soil-moisture6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:739457235790:android:d0e2c4ea5b2bb650ecbc1f",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "739457235790-demu690l1gtakg80k3479vi6sl4h4pt1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDcidQmuiX_K-pgUP6p0SFr_clWro5-DTg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "739457235790-demu690l1gtakg80k3479vi6sl4h4pt1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
